@@ -1,2 +1,2 @@
 # LeetCode
-I am commiting to #100daysofcode on leetcode and will work on my Consistency and skills by taking up this challenge
+I am sharing few of the answers of leetcode questions which I have practiced so far!
